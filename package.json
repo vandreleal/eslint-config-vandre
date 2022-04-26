@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-vandre",
+  "version": "1.0.0",
+  "description": "An opinionated set of eslint rules for personal projects",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vandreleal/eslint-config-vandre.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Vandré Leal Cândido",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vandreleal/eslint-config-vandre/issues"
+  },
+  "homepage": "https://github.com/vandreleal/eslint-config-vandre#readme",
+  "peerDependencies": {
+    "eslint": ">= 6"
+  }
+}
